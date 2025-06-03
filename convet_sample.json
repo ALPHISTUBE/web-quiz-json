@@ -1,0 +1,37 @@
+[
+  {
+    "cat": "Math",
+    "QA": {
+      "question": "What is 2 + 2?",
+      "answer": "4"
+    }
+  },
+  {
+    "cat": "Science",
+    "QA": {
+      "question": "What is the chemical symbol for water?",
+      "answer": "H2O"
+    }
+  },
+  {
+    "cat": "History",
+    "QA": {
+      "question": "Who was the first president of the United States?",
+      "answer": "George Washington"
+    }
+  },
+  {
+    "cat": "Geography",
+    "QA": {
+      "question": "What is the capital city of France?",
+      "answer": "Paris"
+    }
+  },
+  {
+    "cat": "Literature",
+    "QA": {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answer": "William Shakespeare"
+    }
+  }
+]
